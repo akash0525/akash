@@ -1,0 +1,1 @@
+var mystr = "<a href=\"http://www.example.com\"target=\"_blank\">links</a>";
